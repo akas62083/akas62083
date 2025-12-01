@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I am a second-year technical college student studying software development.  
+I build Android applications with Kotlin and practice competitive programming in Java.
+
+### Interests
+- Android app development  
+- Programming languages (Kotlin, Java, C)
+
+### Goals
+- Improve my skills through personal projects  
+- I want to create an original, world-class app that is exceptionally easy to use.
+
 <!--
 **akas62083/akas62083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
